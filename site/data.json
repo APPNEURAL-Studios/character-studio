@@ -1,0 +1,114 @@
+{
+  "slug": "character-studio",
+  "host": "character",
+  "title": "Character Studio",
+  "tagline": "Anime, cartoon, comic, avatar, mascot",
+  "description": "Design anime, cartoon, comic, and manga characters, plus avatars, mascots, and stickers. Build full character sheets, rig and pose figures, sync lip movement to audio, and generate sprites and storyboards with AI assistance.",
+  "editors": [
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Cartoon Editor",
+      "desc": "Create cartoon-style illustrations"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Anime Editor",
+      "desc": "Anime-style character and scene design"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Comic Editor",
+      "desc": "Multi-panel comic page creation"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Manga Editor",
+      "desc": "Manga-style sequential art"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Character Creator",
+      "desc": "Full character design from scratch"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Avatar Editor",
+      "desc": "Profile avatar and persona creation"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Mascot Editor",
+      "desc": "Brand mascot design"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Sticker Editor",
+      "desc": "Chat/social sticker pack creation"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Emoji Editor",
+      "desc": "Custom emoji set design"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Storyboard Editor",
+      "desc": "Visual story sequencing"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Sprite Editor",
+      "desc": "Game/animation sprite sheets"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Character Rigging Editor",
+      "desc": "Bone/joint rigging for characters"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Lip-Sync Editor",
+      "desc": "Mouth shape sync with audio"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "Pose Editor",
+      "desc": "Character pose manipulation"
+    },
+    {
+      "category": "Anime, Cartoon & Character Editors",
+      "name": "AI Character Studio",
+      "desc": "AI-assisted character generation"
+    }
+  ],
+  "services": [
+    [
+      "media",
+      "new"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "asset",
+      "gap"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "moderation",
+      "gap"
+    ]
+  ]
+}
